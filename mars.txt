@@ -1,6 +1,3 @@
 This is for mars
-<<<<<<< HEAD
 This is Joanna making an edit to mars
-=======
-Cherie says that mars is red
 >>>>>>> e67b4762d7fd5bc07c7742b79992751d43d568dc
